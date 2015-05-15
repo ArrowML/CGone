@@ -1,0 +1,13 @@
+{
+    "name": "vendor/c-gone",
+    "description": "Description of project CGone.",
+    "authors": [
+        {
+            "name": "CGone",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "google/recaptcha": "~1.1"
+    }
+}

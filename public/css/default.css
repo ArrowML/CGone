@@ -1,0 +1,25 @@
+/* 
+    Document   : default.css
+    Author     : Marc Lauder
+*/
+body{
+    background-color: #eeeeee;
+}
+
+#header{
+    background-color: #6D6E71;
+    color: #ffffff;
+    padding: 20px;
+}
+
+#content{ 
+    background-color: #ffffff;
+    color: #000000;
+    padding: 20px;
+}
+
+#footer{
+    background-color: #6D6E71;
+    color: #ffffff;
+    padding: 20px;  
+}
